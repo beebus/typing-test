@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="" />
+    <option name="COMMIT_PATTERN" value="{message}" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="525feaee-b43b-4782-9753-1eefa0fd8c4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1coiDqxXjQTBvPTqc1TiD2g4TsE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="C:\Users\Beebs\AppData\Roaming\npm\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="525feaee-b43b-4782-9753-1eefa0fd8c4e" name="Default Changelist" comment="" />
+      <created>1591201229353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591201229353</updated>
+      <workItem from="1591201230674" duration="5183000" />
+      <workItem from="1591559245581" duration="995000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated script.js with event listeners and a count-up timer for when the typing is started.">
+      <created>1591203078750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591203078750</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated script.js with leading zeros on the timer, string matching to detect spelling errors, timer is stopped when done, and fixed the reset button. Updated index.html with a longer typing test origin text string.">
+      <created>1591205852362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591205852362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Linted with JSHint and ESLint">
+      <created>1591560162217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591560162217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated script.js with event listeners and a count-up timer for when the typing is started." />
+    <MESSAGE value="Updated script.js with leading zeros on the timer, string matching to detect spelling errors, timer is stopped when done, and fixed the reset button. Updated index.html with a longer typing test origin text string." />
+    <MESSAGE value="Linted with JSHint and ESLint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Linted with JSHint and ESLint" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1264" y="132" key="#JSHint" timestamp="1591559959440">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1264" y="132" key="#JSHint/0.0.1920.1040/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1591559959440" />
+    <state x="-1680" y="73" key="CommitChangelistDialog2" timestamp="1591560161408">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1680" y="73" key="CommitChangelistDialog2/0.0.1920.1040/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1591560161408" />
+    <state x="-1339" y="149" key="SettingsEditor" timestamp="1591560031393">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1339" y="149" key="SettingsEditor/0.0.1920.1040/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1591560031393" />
+    <state x="-1248" y="237" key="Vcs.Push.Dialog.v2" timestamp="1591560177665">
+      <screen x="-1680" y="0" width="1680" height="1010" />
+    </state>
+    <state x="-1248" y="237" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1680.0.1680.1010@-1680.0.1680.1010" timestamp="1591560177665" />
+  </component>
+</project>
